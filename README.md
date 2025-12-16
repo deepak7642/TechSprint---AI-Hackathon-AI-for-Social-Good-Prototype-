@@ -2,6 +2,11 @@
 
 <img width="500" height="950" alt="image" src="https://github.com/user-attachments/assets/a08b2a24-4e7b-4628-ab00-1776afd4e8bb" />
 
+## **Prototype Title - Gamified : A Gentle Digital Fast**
+
+### **Team Name - AI Devilops**
+#### *Team Lead and Member (only) : Deepak Kaura*
+
 
 #### **Problem Statement -** 
 *From classrooms to corporate offices, digital devices have become inseparable from our lives. But behind the convenience lies a hidden cost: declining concentration, increasing stress, and unhealthy screen dependency. The challenge is clear — how can we transform technology from a source of burnout into a companion for wellness?* 
