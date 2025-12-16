@@ -1,0 +1,97 @@
+User_ID,Age,NumberofSocialMediaPlatforms,HoursSpent,Occupation,Organization,PostSentiment,Frequency,Distraction,Restlessness,Anxiety,ConcentrationDifficulty,SelfComparision,ValidationSeeking,Depression,ActivityInterestVariance,Sleeplessness,Predicted_Social_Impact_Segmt
+94,30,1,2 to 5,Salaried Worker,University,3,2,5,3,4,4,3,3,4,4,4,High Risk
+321,21,6,More than 5,University Student,University,3,2,3,2,4,4,4,3,4,2,4,High Risk
+56,27,7,More than 5,University Student,University,3,4,5,5,4,5,3,4,5,2,3,Critical Risk
+31,22,4,2 to 5,University Student,University,2,3,4,3,5,4,5,3,5,4,3,High Risk
+450,28,5,2 to 5,University Student,University,3,4,3,1,5,4,1,1,4,1,5,Moderate Risk
+457,23,1,2 to 5,School Student,University,3,3,3,3,3,2,2,3,4,2,2,Mild Risk
+434,22,2,2 to 5,University Student,University,2,2,2,2,5,3,5,5,3,3,5,High Risk
+77,24,3,2 to 5,University Student,University,3,4,5,3,3,2,2,4,5,4,2,Mild Risk
+272,22,9,2 to 5,University Student,University,3,4,4,3,4,3,2,4,3,3,4,Mild Risk
+10,20,2,Less than 2,University Student,University,1,1,1,1,1,1,1,1,1,1,1,Healthy
+239,25,3,2 to 5,Salaried Worker,University,1,5,4,2,5,1,5,5,4,5,5,High Risk
+465,23,4,2 to 5,School Student,University,3,3,4,2,4,4,1,1,3,2,3,Moderate Risk
+105,23,2,2 to 5,University Student,University,4,3,3,4,3,3,3,3,2,4,5,Mild Risk
+281,21,6,2 to 5,School Student,School,4,4,4,2,5,4,5,4,4,3,3,High Risk
+298,26,5,Less than 2,University Student,University,2,4,4,2,4,4,2,1,3,3,2,Moderate Risk
+83,21,5,More than 5,University Student,University,3,5,5,3,4,5,2,2,4,5,2,Critical Risk
+279,17,1,2 to 5,School Student,School,3,3,4,3,3,3,5,4,5,3,4,High Risk
+420,25,7,Less than 2,University Student,University,4,2,2,3,3,3,3,3,2,2,4,Mild Risk
+332,27,6,2 to 5,Salaried Worker,Company,4,2,5,2,1,1,2,1,3,2,3,Mild Risk
+404,19,4,2 to 5,University Student,University,5,4,5,2,5,3,5,1,5,4,5,Critical Risk
+358,22,3,More than 5,University Student,University,3,4,5,5,4,4,2,2,3,4,1,Critical Risk
+322,18,7,More than 5,School Student,School,3,2,4,1,4,3,1,3,3,3,5,Mild Risk
+463,14,2,2 to 5,School Student,School,3,4,4,2,3,2,1,1,2,3,1,Mild Risk
+64,25,1,Less than 2,Salaried Worker,Government,3,3,1,1,2,4,1,1,5,1,5,Moderate Risk
+182,47,3,Less than 2,Salaried Worker,Government,3,2,1,1,4,2,3,2,1,2,3,Healthy
+1,21,6,2 to 5,University Student,University,3,5,3,2,2,5,2,2,5,4,5,Moderate Risk
+306,21,3,2 to 5,University Student,University,2,4,5,5,4,3,5,2,5,4,3,Critical Risk
+12,21,8,2 to 5,University Student,University,2,5,4,2,3,4,2,3,3,4,2,Mild Risk
+230,24,4,More than 5,University Student,University,4,2,3,1,4,3,4,3,4,1,1,Moderate Risk
+471,35,3,Less than 2,Salaried Worker,Company,2,3,2,2,3,2,1,2,2,4,4,Mild Risk
+437,21,3,More than 5,University Student,University,3,2,4,2,2,3,2,1,2,2,5,Mild Risk
+219,50,1,Less than 2,Salaried Worker,Company,5,3,2,3,3,5,4,5,2,4,3,Moderate Risk
+34,18,5,2 to 5,School Student,School,2,3,3,3,4,3,3,4,3,3,2,Mild Risk
+91,22,4,2 to 5,University Student,University,3,4,5,2,4,4,2,2,4,4,3,Critical Risk
+200,21,6,Less than 2,University Student,University,2,5,3,2,4,5,4,2,2,3,2,Moderate Risk
+154,48,4,Less than 2,Salaried Worker,Company,3,2,1,1,4,2,1,3,4,2,5,Moderate Risk
+378,22,4,More than 5,University Student,University,3,3,3,3,2,2,3,1,1,3,2,Mild Risk
+19,28,4,Less than 2,University Student,University,3,4,4,2,5,5,2,1,3,3,1,Moderate Risk
+71,33,2,2 to 5,Salaried Worker,Company,1,2,4,3,2,2,1,1,1,2,2,Mild Risk
+156,47,1,Less than 2,Salaried Worker,Company,3,5,1,2,3,4,2,1,2,4,4,Moderate Risk
+78,21,7,2 to 5,University Student,University,1,4,3,4,5,4,5,2,4,4,2,Critical Risk
+40,22,3,2 to 5,University Student,University,3,4,4,2,3,5,1,1,1,3,4,Mild Risk
+401,26,6,More than 5,University Student,University,3,4,4,3,4,4,3,2,3,4,5,Critical Risk
+395,22,4,More than 5,University Student,University,4,4,4,4,4,4,2,3,5,4,3,Critical Risk
+73,14,7,More than 5,School Student,School,2,2,4,2,4,2,4,4,4,4,5,High Risk
+174,20,3,2 to 5,University Student,University,4,5,3,5,4,4,5,3,4,4,5,High Risk
+442,21,5,More than 5,University Student,University,3,4,5,3,4,4,3,4,4,4,3,High Risk
+141,27,3,2 to 5,Salaried Worker,Company,2,5,5,2,5,5,5,3,3,5,4,High Risk
+267,21,1,2 to 5,University Student,University,3,5,3,2,5,4,2,2,4,2,4,Moderate Risk
+339,20,5,Less than 2,Salaried Worker,Company,3,3,3,2,5,3,1,4,5,3,2,Moderate Risk
+323,19,6,Less than 2,University Student,University,3,2,2,1,4,2,2,4,2,2,5,Moderate Risk
+305,22,8,2 to 5,Salaried Worker,University,3,5,5,4,5,4,3,3,3,4,2,Critical Risk
+79,18,3,2 to 5,University Student,University,3,3,3,3,5,5,4,1,5,5,5,Moderate Risk
+133,38,1,Less than 2,Salaried Worker,School,1,2,2,3,2,1,3,1,2,1,1,Mild Risk
+132,24,4,2 to 5,Salaried Worker,Company,4,3,3,2,4,3,2,2,3,1,4,Moderate Risk
+186,47,2,Less than 2,Salaried Worker,Company,3,4,3,2,3,2,2,3,3,2,1,Moderate Risk
+181,48,4,Less than 2,Salaried Worker,Company,3,3,2,2,2,2,2,3,3,3,4,Healthy
+324,22,7,More than 5,University Student,University,1,4,4,2,5,5,1,1,5,1,5,Critical Risk
+312,17,6,More than 5,School Student,School,2,5,5,4,3,5,2,3,2,4,2,Mild Risk
+455,56,4,2 to 5,Salaried Worker,Company,1,1,1,1,1,1,1,1,1,1,2,Healthy
+228,46,2,Less than 2,Salaried Worker,Company,2,1,1,1,1,1,1,1,1,3,4,Healthy
+249,23,6,More than 5,University Student,University,4,3,5,3,5,3,3,3,4,5,4,High Risk
+74,38,4,Less than 2,Salaried Worker,University,3,3,2,1,2,1,1,1,2,1,2,Healthy
+80,28,4,2 to 5,University Student,University,2,3,5,4,5,5,5,1,5,3,5,Critical Risk
+254,20,7,Less than 2,University Student,University,4,3,2,1,5,2,1,2,2,4,2,Moderate Risk
+155,21,4,2 to 5,University Student,University,3,5,2,1,4,5,3,2,3,5,4,Moderate Risk
+400,52,2,Less than 2,Salaried Worker,Company,2,3,2,3,3,2,3,2,3,2,4,Moderate Risk
+474,32,2,2 to 5,Salaried Worker,Company,1,5,5,3,5,5,5,4,5,5,4,High Risk
+211,21,3,More than 5,University Student,University,3,1,1,1,1,1,1,1,1,1,1,Healthy
+423,19,7,Less than 2,School Student,School,3,3,3,1,4,2,2,3,1,4,3,Moderate Risk
+473,30,3,2 to 5,Salaried Worker,University,2,3,4,4,4,5,4,2,4,2,1,Critical Risk
+470,20,3,More than 5,University Student,University,3,4,4,2,5,3,1,2,4,3,4,Moderate Risk
+114,27,4,More than 5,Salaried Worker,Company,1,4,5,4,3,2,5,4,4,4,1,High Risk
+102,22,1,2 to 5,University Student,University,3,3,4,3,4,3,2,3,4,3,3,Mild Risk
+334,20,4,2 to 5,University Student,University,3,3,3,3,3,3,3,3,3,3,3,Mild Risk
+76,26,1,Less than 2,Salaried Worker,Company,1,3,1,1,2,1,1,1,2,3,4,Healthy
+421,26,4,2 to 5,Salaried Worker,Company,1,3,3,3,5,4,4,4,5,5,4,High Risk
+16,23,4,Less than 2,University Student,Company,2,3,4,2,4,4,3,2,3,4,2,Moderate Risk
+477,29,2,2 to 5,Salaried Worker,University,3,3,3,4,2,3,3,4,2,2,2,Mild Risk
+372,21,6,2 to 5,University Student,University,3,5,4,2,4,4,2,2,3,3,5,Moderate Risk
+20,34,4,Less than 2,Salaried Worker,Company,5,3,4,3,4,1,1,3,2,2,2,Mild Risk
+311,22,8,More than 5,University Student,University,3,3,3,2,5,5,1,1,3,4,5,Critical Risk
+432,21,7,2 to 5,University Student,University,1,5,3,2,5,4,5,3,5,5,5,High Risk
+57,22,6,More than 5,University Student,University,3,2,2,1,4,2,1,1,3,4,2,Moderate Risk
+212,34,3,More than 5,Salaried Worker,Company,4,3,3,2,3,4,4,5,5,5,5,High Risk
+125,20,4,More than 5,University Student,University,2,5,4,3,4,3,2,2,4,5,3,Critical Risk
+319,22,4,More than 5,University Student,University,5,5,5,5,5,5,5,5,5,5,5,High Risk
+475,24,3,2 to 5,Salaried Worker,University,2,4,4,3,3,4,4,4,3,4,4,High Risk
+375,21,9,2 to 5,University Student,University,3,3,2,2,4,3,1,2,5,2,4,Moderate Risk
+408,24,5,More than 5,University Student,Company,2,2,2,4,5,1,3,4,4,2,5,High Risk
+26,35,2,2 to 5,Salaried Worker,School,4,3,4,3,3,3,4,4,4,2,2,Mild Risk
+250,34,1,Less than 2,Salaried Worker,School,1,1,2,1,1,1,2,1,1,1,1,Healthy
+394,27,4,Less than 2,Salaried Worker,Company,3,2,2,1,3,1,2,4,2,2,1,Healthy
+426,29,4,More than 5,Salaried Worker,Company,3,4,5,5,5,4,3,4,4,4,3,High Risk
+43,56,1,Less than 2,Retired,Government,3,1,1,1,3,1,1,1,2,3,1,Healthy
+229,21,3,More than 5,University Student,University,3,4,5,3,4,4,3,4,4,4,5,High Risk
